@@ -41,10 +41,10 @@ python ./scripts/plot_exp_diversity.py
 
 ### Bibtex
 ```angular2html
-@article{wang2022improving,
-  title={Improving Screening Processes via Calibrated Subset Selection},
-  author={Wang, Lequn and Joachims, Thorsten and Rodriguez, Manuel Gomez},
-  journal={arXiv preprint arXiv:2202.01147},
-  year={2022}
+@InProceedings{wang/etal/2022/improving,
+  title = {Improving Screening Processes via Calibrated Subset Selection},
+  author = {Wang, Lequn and Joachims, Thorsten and Gomez-Rodriguez, Manuel},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year= {2022}
 }
 ```
